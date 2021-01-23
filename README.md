@@ -2,7 +2,7 @@
 
 Founder of Shiguredo Inc.
 
-## Skils
+## Skills
 
 - Erlang/OTP
 - WebRTC
