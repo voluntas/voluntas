@@ -20,7 +20,7 @@ Founder of Shiguredo Inc.
     - X3DH
     - Double Ratchet
     - SFrame
-- Load test
+- Load testing 
 
 ## Interest
 
