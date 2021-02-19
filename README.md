@@ -16,15 +16,17 @@ Founder of Shiguredo Inc.
 - QUIC
     - HTTP/3
     - WebTransport
+    - TLS
 - End To End Encryption
     - X3DH
     - Double Ratchet
     - SFrame
-- Load testing 
+    - HPKE
+- Load testing
 
 ## Interest
 
-I have a strong interest in real-time communication.
+I have a strong interest in real-time communication and end-to-end encryption.
 
 ## More detailed
 
