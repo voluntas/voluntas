@@ -45,7 +45,7 @@ Founder of Shiguredo Inc.
 
 I have a strong interest in real-time communication and end-to-end encryption.
 
-## More detailed
+## More detailed profile
 
 - https://voluntas.github.io/
 
