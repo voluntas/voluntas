@@ -24,6 +24,23 @@ Founder of Shiguredo Inc.
     - HPKE
 - Load testing
 
+## Implementations
+
+- RADIUS
+- EAP
+    - EAP-TLS
+    - EAP-TTLS
+    - PEAP
+    - EAP-SIM
+    - EAP-AKA
+    - EAP-AKA'
+- DHCP
+- Diameter
+- SIP
+- MQTT
+- WebRTC
+- QUIC
+
 ## Interest
 
 I have a strong interest in real-time communication and end-to-end encryption.
@@ -31,3 +48,4 @@ I have a strong interest in real-time communication and end-to-end encryption.
 ## More detailed
 
 - https://voluntas.github.io/
+
