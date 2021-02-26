@@ -24,7 +24,7 @@ Founder of Shiguredo Inc.
     - HPKE
 - Load testing
 
-## Implementations
+## Careers
 
 - RADIUS
 - EAP
@@ -38,8 +38,6 @@ Founder of Shiguredo Inc.
 - Diameter
 - SIP
 - MQTT
-- WebRTC
-- QUIC
 
 ## Interest
 
