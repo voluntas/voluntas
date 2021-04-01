@@ -34,6 +34,7 @@ Founder of Shiguredo Inc.
     - EAP-SIM
     - EAP-AKA
     - EAP-AKA'
+- LDAP
 - DHCP
 - Diameter
 - SIP
