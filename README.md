@@ -5,6 +5,7 @@ Founder of Shiguredo Inc.
 ## Skills
 
 - Erlang/OTP
+- WebSocket
 - WebRTC
     - SDP
     - DTLS
