@@ -23,6 +23,11 @@ Founder of Shiguredo Inc.
     - Double Ratchet
     - SFrame
     - HPKE
+- Go
+    - Echo
+    - sqlc
+    - pgx
+    - Zerolog
 - Cludflare
     - Cloudflare Worekrs
         - Cloudflare KV
