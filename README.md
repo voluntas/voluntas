@@ -16,7 +16,7 @@ Founder of Shiguredo Inc.
     - pgx
     - Zerolog
 - Cludflare
-    - Cloudflare Worekrs
+    - Cloudflare Workers
         - Cloudflare KV
         - TypeScript
         - Remix
