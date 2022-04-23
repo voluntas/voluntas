@@ -5,6 +5,29 @@ Founder of Shiguredo Inc.
 ## Skills
 
 - Erlang/OTP
+    - Cowboy
+    - Gun
+    - Ranch
+    - jsone
+    - gproc
+- Go
+    - Echo
+    - sqlc
+    - pgx
+    - Zerolog
+- Cludflare
+    - Cloudflare Worekrs
+        - Cloudflare KV
+        - TypeScript
+        - Remix
+        - esbuild
+    - Cloudflare Pages
+    - Cloudllare Access
+    - Cldouflare WAF
+- Load testing
+
+## Protocol
+
 - WebSocket
 - WebRTC
     - SDP
@@ -23,21 +46,6 @@ Founder of Shiguredo Inc.
     - Double Ratchet
     - SFrame
     - HPKE
-- Go
-    - Echo
-    - sqlc
-    - pgx
-    - Zerolog
-- Cludflare
-    - Cloudflare Worekrs
-        - Cloudflare KV
-        - TypeScript
-        - Remix
-        - esbuild
-    - Cloudflare Pages
-    - Cloudllare Access
-    - Cldouflare WAF
-- Load testing
 
 ## Careers
 
