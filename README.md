@@ -26,7 +26,7 @@ Founder of Shiguredo Inc.
     - Cldouflare WAF
 - Load testing
 
-## Protocol
+## Protocols
 
 - WebSocket
 - WebRTC
