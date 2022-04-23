@@ -23,6 +23,15 @@ Founder of Shiguredo Inc.
     - Double Ratchet
     - SFrame
     - HPKE
+- Cludflare
+    - Cloudflare Worekrs
+        - Cloudflare KV
+        - TypeScript
+        - Remix
+        - esbuild
+    - Cloudflare Pages
+    - Cloudllare Access
+    - Cldouflare WAF
 - Load testing
 
 ## Careers
@@ -48,4 +57,5 @@ I have a strong interest in real-time communication and end-to-end encryption.
 ## More detailed profile
 
 - https://voluntas.github.io/
+
 
