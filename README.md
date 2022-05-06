@@ -15,7 +15,7 @@ Founder of Shiguredo Inc.
     - sqlc
     - pgx
     - Zerolog
-- Cludflare
+- Cloudflare
     - Cloudflare Workers
         - Cloudflare KV
         - TypeScript
