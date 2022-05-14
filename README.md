@@ -20,7 +20,6 @@ Founder of Shiguredo Inc.
         - Cloudflare KV
         - TypeScript
         - Remix
-        - esbuild
     - Cloudflare Pages
     - Cloudllare Access
     - Cldouflare WAF
