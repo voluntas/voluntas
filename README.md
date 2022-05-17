@@ -18,9 +18,12 @@ Founder of Shiguredo Inc.
 - Cludflare
     - Cloudflare Workers
         - Cloudflare KV
+        - R2
+        - Durable Objects
         - TypeScript
     - Cloudflare Pages
-    - Cloudllare Access
+    - Cloudflare Load Balancing
+    - Cloudflare Zero Trust
     - Cldouflare WAF
 - Load testing
 
