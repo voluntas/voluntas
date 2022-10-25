@@ -5,22 +5,6 @@ Founder of Shiguredo Inc.
 ## Skills
 
 - Erlang/OTP
-    - Cowboy
-    - Gun
-    - Ranch
-    - jsone
-    - gproc
-- Go
-    - Echo
-    - sqlc
-    - pgx
-    - Zerolog
-- Cludflare
-    - Cloudflare Workers
-    - Cloudflare Pages
-    - Cloudflare Load Balancing
-    - Cloudflare Zero Trust
-    - Cldouflare WAF
 - Load testing
 
 ## Protocols
