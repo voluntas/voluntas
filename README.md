@@ -6,6 +6,8 @@ Founder of Shiguredo Inc.
 
 - Erlang/OTP
 - Load testing
+- Product management
+- Business development
 
 ## Protocols
 
@@ -46,7 +48,7 @@ Founder of Shiguredo Inc.
 
 ## Interest
 
-I have a strong interest in real-time communication and end-to-end encryption.
+I have a strong interest in real-time communication.
 
 ## More detailed profile
 
