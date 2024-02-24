@@ -5,9 +5,6 @@ Founder of Shiguredo Inc.
 ## Skills
 
 - Erlang/OTP
-- Load testing
-- Product management
-- Business development
 
 ## Protocols
 
