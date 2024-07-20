@@ -20,7 +20,7 @@ Founder of Shiguredo Inc.
 - QUIC
     - HTTP/3
     - WebTransport
-    - TLS 
+    - TLS 1.3
 - End To End Encryption
     - X3DH
     - Double Ratchet
