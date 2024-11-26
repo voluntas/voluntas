@@ -13,8 +13,9 @@ Founder of Shiguredo Inc.
     - SDP
     - DTLS
     - SCTP
-    - SRTP/SRTCP
+    - DCEP
     - RTP/RTCP
+    - SRTP/SRTCP
     - STUN
     - TURN
 - QUIC
