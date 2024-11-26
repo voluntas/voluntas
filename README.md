@@ -21,11 +21,6 @@ Founder of Shiguredo Inc.
     - HTTP/3
     - WebTransport
     - TLS 1.3
-- End To End Encryption
-    - X3DH
-    - Double Ratchet
-    - SFrame
-    - HPKE
 
 ## Careers
 
@@ -42,7 +37,11 @@ Founder of Shiguredo Inc.
 - Diameter
 - SIP
 - MQTT
-
+- End To End Encryption
+    - X3DH
+    - Double Ratchet
+    - SFrame
+    - HPKE
 ## Interest
 
 I have a strong interest in real-time communication.
