@@ -5,6 +5,7 @@ Founder of Shiguredo Inc.
 ## Skills
 
 - Erlang/OTP
+- Python
 
 ## Protocols
 
@@ -43,6 +44,7 @@ Founder of Shiguredo Inc.
     - Double Ratchet
     - SFrame
     - HPKE
+
 ## Interest
 
 I have a strong interest in real-time communication.
@@ -50,5 +52,4 @@ I have a strong interest in real-time communication.
 ## More detailed profile
 
 - https://voluntas.github.io/
-
 
