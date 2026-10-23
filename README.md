@@ -20,8 +20,11 @@ Founder of Shiguredo Inc.
     - STUN
     - TURN
 - QUIC
+    - MOQT
     - HTTP/3
+    - HTTP/2
     - WebTransport
+    - QMux
     - TLS 1.3
 
 ## Careers
